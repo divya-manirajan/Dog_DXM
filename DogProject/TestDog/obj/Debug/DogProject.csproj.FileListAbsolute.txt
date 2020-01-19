@@ -1,0 +1,10 @@
+/Users/divyamanirajan/Projects/TestDog/TestDog/bin/Debug/TestDog.exe
+/Users/divyamanirajan/Projects/TestDog/TestDog/bin/Debug/TestDog.pdb
+/Users/divyamanirajan/Projects/TestDog/TestDog/obj/Debug/TestDog.exe
+/Users/divyamanirajan/Projects/TestDog/TestDog/obj/Debug/TestDog.pdb
+/Users/divyamanirajan/Projects/TestDog/TestDog/obj/Debug/DogProject.csprojAssemblyReference.cache
+/Users/divyamanirajan/Projects/DogProject/TestDog/bin/Debug/TestDog.exe
+/Users/divyamanirajan/Projects/DogProject/TestDog/bin/Debug/TestDog.pdb
+/Users/divyamanirajan/Projects/DogProject/TestDog/obj/Debug/DogProject.csprojAssemblyReference.cache
+/Users/divyamanirajan/Projects/DogProject/TestDog/obj/Debug/TestDog.exe
+/Users/divyamanirajan/Projects/DogProject/TestDog/obj/Debug/TestDog.pdb
